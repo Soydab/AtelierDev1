@@ -15,7 +15,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author vincent
+ * @author Soydab
  */
 public class Gameoflife  extends JComponent implements WindowListener{
 
